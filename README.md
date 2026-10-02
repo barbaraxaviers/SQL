@@ -17,7 +17,9 @@ Introducere în noțiunile fundamentale de SQL și MySQL. Crearea unei baze de d
 <br>
 
 #🗄️ SQL & MySQL — DDL (Data Definition Language) & Alterações de Tabelas
+<br>
 📌 2026-10-01
+<br>
 📝 Today's Focus / Foco de Hoje / Obiectivul de Astăzi
 <br>
 🇧🇷 PT: Prática de comandos DDL em SQL e MySQL. Manipulação de estruturas de tabelas com alter, adição, modificação e remoção de colunas, renomeação de tabelas e definição de restrições (constraints, unique, unsigned, default).
